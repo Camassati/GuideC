@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+3SQoiusYQiF90IzIEzIqMFmjfn/54PJ2oktvHjRfVkCWgzYdh8jfPPZcFiwxvp3SMBRbamggXN39VcI6pzOA==",
+  "success": true,
+  "projectFilePath": "F:\\Programação\\Aprendizado-\\Aprendizado Geral\\AprendizadoGeral\\AprendizadoGeral\\AprendizadoGeral.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fir4s\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

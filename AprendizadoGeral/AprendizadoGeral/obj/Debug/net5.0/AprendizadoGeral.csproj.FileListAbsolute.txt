@@ -1,0 +1,16 @@
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\bin\Debug\net5.0\AprendizadoGeral.exe
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\bin\Debug\net5.0\AprendizadoGeral.deps.json
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\bin\Debug\net5.0\AprendizadoGeral.runtimeconfig.json
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\bin\Debug\net5.0\AprendizadoGeral.runtimeconfig.dev.json
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\bin\Debug\net5.0\AprendizadoGeral.dll
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\bin\Debug\net5.0\AprendizadoGeral.pdb
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.csproj.AssemblyReference.cache
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.AssemblyInfoInputs.cache
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.AssemblyInfo.cs
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.csproj.CoreCompileInputs.cache
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.dll
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\refint\AprendizadoGeral.dll
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.pdb
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\AprendizadoGeral.genruntimeconfig.cache
+F:\Programação\Aprendizado-\Aprendizado Geral\AprendizadoGeral\AprendizadoGeral\obj\Debug\net5.0\ref\AprendizadoGeral.dll
