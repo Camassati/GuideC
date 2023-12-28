@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programação\\Aprendizado-\\Aprendizado Geral\\AprendizadoGeral\\AprendizadoGeral\\AprendizadoGeral.csproj",
+      "projectUniqueName": "F:\\Programação\\GuideC#\\Aprendizado Geral\\AprendizadoGeral\\AprendizadoGeral\\AprendizadoGeral.csproj",
       "projectName": "AprendizadoGeral",
-      "projectPath": "F:\\Programação\\Aprendizado-\\Aprendizado Geral\\AprendizadoGeral\\AprendizadoGeral\\AprendizadoGeral.csproj",
+      "projectPath": "F:\\Programação\\GuideC#\\Aprendizado Geral\\AprendizadoGeral\\AprendizadoGeral\\AprendizadoGeral.csproj",
       "packagesPath": "C:\\Users\\Fir4s\\.nuget\\packages\\",
-      "outputPath": "F:\\Programação\\Aprendizado-\\Aprendizado Geral\\AprendizadoGeral\\AprendizadoGeral\\obj\\",
+      "outputPath": "F:\\Programação\\GuideC#\\Aprendizado Geral\\AprendizadoGeral\\AprendizadoGeral\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fir4s\\AppData\\Roaming\\NuGet\\NuGet.Config",

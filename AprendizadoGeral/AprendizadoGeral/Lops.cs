@@ -32,6 +32,12 @@ namespace AprendizadoGeral
             {
                 Console.WriteLine(i);
             }
+            //Foreach para vetores 
+            string[] vect = new string[] { "Gustavo", "Eneas", "Marisa" };
+            foreach (string obj in vect)
+            {
+                Console.WriteLine(obj);
+            }
         }
     }
 }
