@@ -12,7 +12,7 @@ namespace AprendizadoGeral
         {
 
             List<string> list = new List<string>();
-            list.Add("Maria");
+            list.Add("Marya");
             list.Add("Alex");
             list.Add("Bob");
             list.Add("Anna");

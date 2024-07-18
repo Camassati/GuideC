@@ -8,10 +8,21 @@ using System.Threading.Tasks;
 
 namespace AprendizadoGeral
 {
-    public class Vetor:VetorComClasse
+    public interface IVetor
+    {
+        void Vetores();
+    }
+
+    public interface IVetor1
+    {
+        void Vetores();
+    }
+
+    public class Vetor : VetorComClasse, IVetor, IVetor1
     {
         public void Vetores()
         {
+
             /*
             int[] vetor = new int[4];
             vetor[0] = 1;

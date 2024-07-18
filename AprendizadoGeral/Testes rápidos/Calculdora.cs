@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Testes_rápidos
 {
-    internal class Class1
+    internal class Calculdora
     {
     }
 }
